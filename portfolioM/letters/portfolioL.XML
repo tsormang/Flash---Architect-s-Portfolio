@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolioL>
+
+<!-- Image 1--> 
+	<title> PAPER </title>
+	<largeImage>portfolioM/letters/01.jpg</largeImage>
+	<thumbImage>portfolioM/letters/p.jpg</thumbImage>
+	
+<!-- Image 2--> 
+	<title> CONCRETE </title>
+	<largeImage>portfolioM/letters/02.jpg</largeImage>
+	<thumbImage>portfolioM/letters/c.jpg</thumbImage>
+
+<!-- Image 3--> 
+	<title> TIMBER </title>
+	<largeImage>portfolioM/letters/03.jpg</largeImage>
+	<thumbImage>portfolioM/letters/t.jpg</thumbImage>
+	
+<!-- Image 4--> 
+	<title> MIX MEDIA </title>
+	<largeImage>portfolioM/letters/04.jpg</largeImage>
+	<thumbImage>portfolioM/letters/mm.jpg</thumbImage>
+
+
+			
+</portfolioL>
+
+

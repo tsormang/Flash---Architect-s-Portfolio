@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolioM3>
+
+<!-- Image 1--> 
+	<title> 1:100 progression model </title>
+	<largeImage>portfolioM/3largeT/01.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/01.jpg</thumbImage>
+	
+<!-- Image 2--> 
+	<title> 1:500 old Edinburgh town sites </title>
+	<largeImage>portfolioM/3largeT/02.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/02.jpg</thumbImage>
+
+<!-- Image 3--> 
+	<title> 1:500 old Edinburgh town sites </title>
+	<largeImage>portfolioM/3largeT/03.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/03.jpg</thumbImage>
+
+<!-- Image 4--> 
+	<title> 1:1500 Budapest site model – old Pest centre </title>
+	<largeImage>portfolioM/3largeT/04.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/04.jpg</thumbImage>
+
+<!-- Image 5--> 
+	<title> 1:1500 Budapest site model </title>
+	<largeImage>portfolioM/3largeT/05.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/05.jpg</thumbImage>
+
+<!-- Image 6--> 
+	<title> 1:500 Buda castle hill with proposal </title>
+	<largeImage>portfolioM/3largeT/06.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/06.jpg</thumbImage>
+
+<!-- Image 7--> 
+	<title> 1:200 Oak model </title>
+	<largeImage>portfolioM/3largeT/07.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/07.jpg</thumbImage>
+
+<!-- Image 8--> 
+	<title> 1:200 Oak model inside a wine barrel </title>
+	<largeImage>portfolioM/3largeT/08.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/08.jpg</thumbImage>
+
+<!-- Image 9--> 
+	<title> 1:200 Oak model inside a wine barrel </title>
+	<largeImage>portfolioM/3largeT/09.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/09.jpg</thumbImage>
+
+<!-- Image 10--> 
+	<title> Spatial abstraction – Concept model </title>
+	<largeImage>portfolioM/3largeT/10.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/10.jpg</thumbImage>
+
+<!-- Image 11--> 
+	<title> Cardboard progression models </title>
+	<largeImage>portfolioM/3largeT/11.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/11.jpg</thumbImage>
+
+<!-- Image 12--> 
+	<title> Progressing to forms </title>
+	<largeImage>portfolioM/3largeT/12.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/12.jpg</thumbImage>
+
+<!-- Image 13--> 
+	<title> Flying houses </title>
+	<largeImage>portfolioM/3largeT/13.jpg</largeImage>
+	<thumbImage>portfolioM/3smallT/13.jpg</thumbImage>
+
+			
+</portfolioM3>
+
+

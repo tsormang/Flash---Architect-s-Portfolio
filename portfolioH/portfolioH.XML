@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolioH>
+
+<!-- Image 1--> 
+	<title>01 Buda Palace and Hungarian Viniculture perspective</title>
+	<largeImage>portfolioH/large1/01.jpg</largeImage>
+	<thumbImage>portfolioH/thumbs1/01.jpg</thumbImage>
+	
+<!-- Image 2--> 
+	<title>02 The eight phases of Hungarian Viniculture history in abstract vine models</title>
+	<largeImage>portfolioH/large1/02.jpg</largeImage>
+	<thumbImage>portfolioH/thumbs1/02.jpg</thumbImage>
+
+<!-- Image 3--> 
+	<title>03 Site plan</title>
+	<largeImage>portfolioH/large1/03.jpg</largeImage>
+	<thumbImage>portfolioH/thumbs1/03.jpg</thumbImage>
+	
+<!-- Image 4--> 
+	<title>04 Plan</title>
+	<largeImage>portfolioH/large1/04.jpg</largeImage>
+	<thumbImage>portfolioH/thumbs1/04.jpg</thumbImage>
+
+<!-- Image 5--> 
+	<title>05 3D Aerial view perspective</title>
+	<largeImage>portfolioH/large1/05.jpg</largeImage>
+	<thumbImage>portfolioH/thumbs1/05.jpg</thumbImage>
+
+<!-- Image 6--> 
+	<title>06 3D Perspective section with more aerial views</title>
+	<largeImage>portfolioH/large1/06.jpg</largeImage>
+	<thumbImage>portfolioH/thumbs1/06.jpg</thumbImage>
+
+<!-- Image 7--> 
+	<title>07 Section 1</title>
+	<largeImage>portfolioH/large1/07.jpg</largeImage>
+	<thumbImage>portfolioH/thumbs1/07.jpg</thumbImage>
+
+<!-- Image 8--> 
+		<title>08 Section 2</title>
+	<largeImage>portfolioH/large1/08.jpg</largeImage>
+	<thumbImage>portfolioH/thumbs1/08.jpg</thumbImage>
+
+<!-- Image 9--> 
+		<title>09 Section 3</title>
+	<largeImage>portfolioH/large1/09.jpg</largeImage>
+	<thumbImage>portfolioH/thumbs1/09.jpg</thumbImage>
+
+<!-- Image 10--> 
+	<title>10 Section 4</title>
+	<largeImage>portfolioH/large1/10.jpg</largeImage>
+	<thumbImage>portfolioH/thumbs1/10.jpg</thumbImage>
+
+<!-- Image 11--> 
+	<title>11 1:200 timber model inside a wine barrel</title>
+	<largeImage>portfolioH/large1/11.jpg</largeImage>
+	<thumbImage>portfolioH/thumbs1/11.jpg</thumbImage>	
+
+
+			
+</portfolioH>
+
+

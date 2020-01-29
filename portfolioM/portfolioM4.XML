@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolioM4>
+
+<!-- Image 1--> 
+	<title> Steel and glass </title>
+	<largeImage>portfolioM/4largeMM/01.jpg</largeImage>
+	<thumbImage>portfolioM/4smallMM/01.jpg</thumbImage>
+	
+<!-- Image 2--> 
+	<title> Steel and glass </title>
+	<largeImage>portfolioM/4largeMM/02.jpg</largeImage>
+	<thumbImage>portfolioM/4smallMM/02.jpg</thumbImage>
+
+<!-- Image 3--> 
+	<title> 1:100 Concord hangar model </title>
+	<largeImage>portfolioM/4largeMM/03.jpg</largeImage>
+	<thumbImage>portfolioM/4smallMM/03.jpg</thumbImage>
+
+<!-- Image 4--> 
+	<title> 1:100 Concord hangar model – interior </title>
+	<largeImage>portfolioM/4largeMM/04.jpg</largeImage>
+	<thumbImage>portfolioM/4smallMM/04.jpg</thumbImage>
+
+<!-- Image 5--> 
+	<title> 1:500 progress models </title>
+	<largeImage>portfolioM/4largeMM/05.jpg</largeImage>
+	<thumbImage>portfolioM/4smallMM/05.jpg</thumbImage>
+
+<!-- Image 6--> 
+	<title> 1:200 Dundee Museum of Life main galleries building </title>
+	<largeImage>portfolioM/4largeMM/06.jpg</largeImage>
+	<thumbImage>portfolioM/4smallMM/06.jpg</thumbImage>
+
+<!-- Image 7--> 
+	<title> 1:200 Dundee Museum of Life main galleries building </title>
+	<largeImage>portfolioM/4largeMM/07.jpg</largeImage>
+	<thumbImage>portfolioM/4smallMM/07.jpg</thumbImage>
+
+<!-- Image 8--> 
+	<title> Conceptual – Views model </title>
+	<largeImage>portfolioM/4largeMM/08.jpg</largeImage>
+	<thumbImage>portfolioM/4smallMM/08.jpg</thumbImage>
+
+<!-- Image 9--> 
+	<title> Cardboard progress model with Perspex structural elements </title>
+	<largeImage>portfolioM/4largeMM/09.jpg</largeImage>
+	<thumbImage>portfolioM/4smallMM/09.jpg</thumbImage>
+
+
+
+			
+</portfolioM4>
+
+

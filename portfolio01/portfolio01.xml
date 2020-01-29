@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolio01>
+
+	<!-- Image 1--> 
+	<title>Museum of Dundee life</title>
+	<largeImage>portfolio01/large/museum.jpg</largeImage>
+	<thumbImage>portfolio01/thumbs/museum.jpg</thumbImage>
+	
+	<!-- Image 2--> 
+	<title>Hungarian Viniculture centre</title>
+	<largeImage>portfolio01/large/buda.jpg</largeImage>
+	<thumbImage>portfolio01/thumbs/buda.jpg</thumbImage>
+
+	<!-- Image 3--> 
+	<title>Cowgate Intervantion</title>
+	<largeImage>portfolio01/large/cowgate.jpg</largeImage>
+	<thumbImage>portfolio01/thumbs/cowgate.jpg</thumbImage>
+		
+        <!-- Image 4--> 
+	<title>Models</title>
+	<largeImage>portfolio01/large/models.jpg</largeImage>
+	<thumbImage>portfolio01/thumbs/models.jpg</thumbImage>  
+			
+</portfolio01>
+

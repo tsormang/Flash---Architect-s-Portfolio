@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolioI>
+
+<!-- Image 1--> 
+	<title> 01 Edinburgh old town - analysis </title>
+	<largeImage>portfolioI/large/01.jpg</largeImage>
+	<thumbImage>portfolioI/thumbs/01.jpg</thumbImage>
+	
+<!-- Image 2--> 
+	<title> 02 Presentation 1 </title>
+	<largeImage>portfolioI/large/02.jpg</largeImage>
+	<thumbImage>portfolioI/thumbs/02.jpg</thumbImage>
+
+<!-- Image 3--> 
+	<title> 02 Presentation 2 </title>
+	<largeImage>portfolioI/large/03.jpg</largeImage>
+	<thumbImage>portfolioI/thumbs/03.jpg</thumbImage>
+	
+<!-- Image 4--> 
+	<title> 03 Intervantion model 1:50 - Day view </title>
+	<largeImage>portfolioI/large/04.jpg</largeImage>
+	<thumbImage>portfolioI/thumbs/04.jpg</thumbImage>
+
+<!-- Image 5--> 
+	<title> 04 Intervantion model 1:50 - Night view 1 </title>
+	<largeImage>portfolioI/large/05.jpg</largeImage>
+	<thumbImage>portfolioI/thumbs/05.jpg</thumbImage>
+
+<!-- Image 6--> 
+	<title> 05 Intervantion model 1:50 - Night view 2 </title>
+	<largeImage>portfolioI/large/06.jpg</largeImage>
+	<thumbImage>portfolioI/thumbs/06.jpg</thumbImage>
+
+<!-- Image 7--> 
+	<title> 06 Intervantion model 1:50 - Interior back view </title>
+	<largeImage>portfolioI/large/07.jpg</largeImage>
+	<thumbImage>portfolioI/thumbs/07.jpg</thumbImage>
+
+<!-- Image 8--> 
+	<title> 07 Section model 1:20 </title>
+	<largeImage>portfolioI/large/08.jpg</largeImage>
+	<thumbImage>portfolioI/thumbs/08.jpg</thumbImage>
+
+
+
+			
+</portfolioI>
+
+
